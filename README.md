@@ -1,16 +1,15 @@
 # Wawa Fuel Stations ⛽
 
-![Wawa Fuel Stations](assets/images/banner.png)
-
 A simple **Wawa-inspired rebrand of GTA V fuel pumps** for FiveM.
 
 Replace the default GTA V fuel pump branding with Wawa-style branding while keeping the original GTA V models and locations.
 
 ## 📸 Preview
 
-![Fuel Pump](assets/images/fuel-pump.png)
+<img width="1861" height="870" alt="image4" src="https://github.com/user-attachments/assets/2aa7958f-16a9-4e4a-b1d0-298f3b4b96a7" />
+<img width="1695" height="928" alt="image1" src="https://github.com/user-attachments/assets/6cfcde88-760f-4fb3-beb5-81d596b975b5" />
 
-![In-Game](assets/images/ingame.png)
+
 
 ## ✨ Features
 
